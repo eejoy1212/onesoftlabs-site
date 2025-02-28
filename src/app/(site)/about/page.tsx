@@ -14,7 +14,7 @@ const AboutPage = () => {
     <main>
       <Breadcrumb pageName="회사 소개" />
       <About />
-      <Team />
+      {/* <Team /> */}
     </main>
   );
 };
