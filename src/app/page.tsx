@@ -14,8 +14,9 @@ import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Play Next.js - SaaS Starter Kit and Boilerplate for Next.js",
-  description: "Free Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.",
+  title: "OneSoft - 맞춤형 웹 & 앱 개발",
+  description: "OneSoft는 최신 기술을 활용한 맞춤형 웹사이트, 모바일 앱, 인공지능 솔루션을 개발합니다. 기획부터 디자인, 개발까지 최적의 솔루션을 제공합니다.",
+icons: "/images/icon/logo-mini.png"
 };
 
 export default function Home() {
