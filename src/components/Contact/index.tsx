@@ -92,7 +92,7 @@ const Contact = () => {
                       이메일 문의
                     </h3>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
-                      onefost1212@gmail.com
+                      onesoft1212@gmail.com
                     </p>
                   </div>
                 </div>
