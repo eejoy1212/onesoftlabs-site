@@ -14,7 +14,7 @@ import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "OneSoft - 맞춤형 웹 & 앱 개발",
+  title: "원소프트(One Soft)",
   description: "OneSoft는 최신 기술을 활용한 맞춤형 웹사이트, 모바일 앱, 인공지능 솔루션을 개발합니다. 기획부터 디자인, 개발까지 최적의 솔루션을 제공합니다.",
 icons: "/images/icon/logo-mini.png"
 };
@@ -25,13 +25,13 @@ export default function Home() {
     { title: "페이백 앱",
        coverImage: "/images/blog/blog-01.svg",
         excerpt: "소비자가 오프라인 매장에서 결제한 금액의 일부를 돌려받을 수 있는 페이백(캐시백) 서비스",
-         date: "2025-03-30", 
+         date: "2025-07-30", 
          slug: "catchmong",
          },
          { title: "스마트 조명 제어 앱(카 앰비언트)",
           coverImage: "/images/blog/blog-02.svg",
            excerpt: "BLE 기반 스마트 조명 컨트롤 모바일 앱",
-            date: "2025-03-30", 
+            date: "2025-06-01", 
             slug: "catchmong",
             },
             { title: "포토 부스 프로그램",
